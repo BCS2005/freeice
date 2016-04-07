@@ -4,6 +4,7 @@
   "stun2.l.google.com:19302",
   "stun3.l.google.com:19302",
   "stun4.l.google.com:19302",
+  "stun.bcs2005.net"
   "stun.ekiga.net",
   "stun.ideasip.com",
   "stun.schlund.de",
@@ -13,4 +14,5 @@
   "stun.voipstunt.com",
   "stun.voxgratia.org",
   "stun.services.mozilla.com"
+  
 ]
